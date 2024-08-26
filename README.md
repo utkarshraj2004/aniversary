@@ -1,2 +1,0 @@
-# aniversary
-My Aniversry Site
